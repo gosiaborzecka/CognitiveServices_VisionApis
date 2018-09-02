@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CognitiveServices_VisionApis/v15
+/CognitiveServices_VisionApis/bin/Debug/netcoreapp2.1
+/.vs/config
+/CognitiveServices_VisionApis/obj
